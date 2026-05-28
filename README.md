@@ -104,7 +104,6 @@ See `requirements.txt` for full list. Key libraries:
 - `seaborn` / `matplotlib` — Visualization
 - `pandas` / `numpy` — Data processing
 
----
 
 ## 👤 Author
 
